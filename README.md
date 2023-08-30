@@ -1,16 +1,13 @@
-### Hi there 👋
+ ### Boas vindas ao meu perfil 
 
-<!--
-**karlasarnick/karlasarnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me chamo karla
 
-Here are some ideas to get you started:
+ idade:14
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Estou estudando no  Java Scrip, não queria, mais estou 🌻
+
+   # se quiser entrar em contato comigo
+   karla.silveira@escola.pr.gov.br
+
+
+   ![](https://media.tenor.com/YTQaFYKTzm8AAAAC/seulisasoo-korean-kids.gif)
